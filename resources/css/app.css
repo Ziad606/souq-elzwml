@@ -1,0 +1,35 @@
+.card {
+    background-color: #fff;
+    color: #000;
+}
+
+.form-control, .form-check-label {
+    color: #000;
+}
+
+.btn-primary {
+    background-color: #c70039;
+    border-color: #c70039;
+    color: #fff;
+}
+.btn-primary:hover {
+    background-color: #b70034;
+}
+
+.btn-primary:active {
+    background-color: #990033 !important;
+}
+
+.invalid-feedback {
+    color: #c70039;
+}
+
+.form-group {
+    margin-bottom: 1rem;
+}
+
+.col-form-label {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    margin-bottom: 0;
+}
